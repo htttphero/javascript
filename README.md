@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=NuqmhrL8e9c
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
